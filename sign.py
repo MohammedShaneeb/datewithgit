@@ -6,7 +6,7 @@ print("hello")
 india
 
 asia
-fro mfeautr
+fro mfeautrhia
 
 hello
 
