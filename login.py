@@ -1,5 +1,6 @@
 print("name:shaneeb")
 print("pass:1234")
+print("hai")
 
 
 
